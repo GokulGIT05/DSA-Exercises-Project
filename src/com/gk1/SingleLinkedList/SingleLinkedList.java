@@ -143,6 +143,5 @@ public class SingleLinkedList {
 		headNode = null;
 		tailNode = null;
 		nodeSize = 0;
-
 	}
 }

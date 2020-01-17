@@ -5,7 +5,6 @@ public class Gk2SelectionSort {
 	public static void main(String[] args) {
 		int arr[] = { 10, 5, 30, 15, 50, 6 };
 		printArray(arr);
-
 		arr = selectionSortAlgo(arr);
 		
 		printArray(arr);
